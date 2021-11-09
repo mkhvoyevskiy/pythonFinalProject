@@ -10,7 +10,7 @@ A puzzle game where you use portals to move through a level.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-The software will a be game with the purpose of entertainment. The features will be character movement, portals between locations on premade levels, and hopefully a portal launcher to allow players to place their own portals. It will be executed using a folder containing a build of the game.
+The software will be a game with the purpose of entertainment. The features will be character movement, portals between locations on premade levels, and hopefully a portal launcher to allow players to place their own portals. It will be executed using a folder containing a build of the game.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
